@@ -14,6 +14,15 @@ Passionate about problem solving and building efficient solutions. Currently mas
 - 🌱 Exploring **AI** and core Computer Science concepts
 - 📫 Reach me at: **rishitvashist414@gmail.com**
 - 📞 Contact: **+91 7650040133**
+
+- ## 🛠️ Skills
+
+- C++
+- HTML
+- CSS
+- JavaScript
+- Git & GitHub
+- Data Structures & Algorithms
  
  
 
