@@ -1,4 +1,5 @@
 # Hi there, I'm RishitVashista 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&width=500&lines=Full+Stack+Developer;Problem+Solver;Always+Learning)](https://git.io/typing-svg)
 
 ### 💻 Aspiring Software Developer | B.Tech CSE (AI) Student
 
